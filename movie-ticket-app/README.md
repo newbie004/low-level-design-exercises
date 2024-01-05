@@ -1,4 +1,4 @@
-* Movie Ticket Booking Application
+## Movie Ticket Booking Application
 * In-Memory App, no need to integrate the database.
 
 ## Requirements
