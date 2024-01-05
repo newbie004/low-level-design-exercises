@@ -1,0 +1,3 @@
+class PlatinumSeat < Seat
+
+end
